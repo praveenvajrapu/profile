@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 B.Tech Graduate
 ---------------
 
-B.Tech graduate in Artificial Intelligence Data Science (CGPA: 8.68), specializing in Cloud Computing. Proficient in Python, AWS, TensorFlow, and Generative AI with hands-on experience in building ML models, serverless cloud applications, and full-stack web solutions. Actively seeking opportunities to apply AI and cloud expertise to solve real-world problems
+B.Tech graduate in Artificial Intelligence Data Science (CGPA: 8.75), specializing in Cloud Computing. Proficient in Python, AWS, TensorFlow, and Generative AI with hands-on experience in building ML models, serverless cloud applications, and full-stack web solutions. Actively seeking opportunities to apply AI and cloud expertise to solve real-world problems
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [praveenvajrapu02@gmail.com](mailto:praveenvajrapu02@gmail.com)
